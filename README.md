@@ -1,0 +1,2 @@
+# 98b30f1731881551-devops-infra-client-communicat
+Professional devops infra VS Code extension — without the professional price tag.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Devops Infra Client Communication Portal — fully configured and ready to use - Integrated di
